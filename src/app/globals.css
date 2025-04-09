@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+}
+
+@theme inline {
+  --color-primary: #23A6F0;
+  --color-hover: #2A7CC7;
+  --color-dark-background: #252B42;
+  --color-light-background: #8EC2F2;
+  --color-dark-text: #252B42;
+  --color-light-text: #737373;
+}
